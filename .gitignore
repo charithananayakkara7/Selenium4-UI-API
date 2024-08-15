@@ -3,8 +3,6 @@ log4jlogs/
 *.log
 *.class
 *.ctxt
-
-# Package Files #
 *.jar
 *.war
 *.nar
@@ -12,8 +10,7 @@ log4jlogs/
 *.zip
 *.tar.gz
 *.rar
-
-
+.vscode
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -22,11 +19,6 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
-
-# Eclipse m2e generated files
-# Eclipse Core
 .project
-# JDT-specific (Eclipse Java Development Tools)
 .classpath
